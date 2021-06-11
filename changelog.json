@@ -1,0 +1,15 @@
+{
+  "releases": [
+    {
+      "code": 2,
+      "version":"1.1.0",
+      "changes": [
+        {
+          "type": 3,
+          "text": "Chat Disqus"
+        }
+      ]
+    }
+
+  ]
+}
