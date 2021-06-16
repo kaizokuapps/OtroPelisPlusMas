@@ -1,8 +1,18 @@
 {
   "releases": [
     {
+      "code": 3,
+      "version": "1.1.1",
+      "changes": [
+        {
+          "type": 1,
+          "text": "Error al instalar actualización"
+        }
+      ]
+    },
+    {
       "code": 2,
-      "version":"1.1.0",
+      "version": "1.1.0",
       "changes": [
         {
           "type": 3,
@@ -10,6 +20,5 @@
         }
       ]
     }
-
   ]
 }
