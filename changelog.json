@@ -2,8 +2,12 @@
   "releases": [
     {
       "code": 4,
-      "version": "1.1.2",
+      "version": "1.2.2",
       "changes": [
+        {
+          "type": 3,
+          "text": "Playlist por serie"
+        },
         {
           "type": 1,
           "text": "Rotacion de pantalla"
